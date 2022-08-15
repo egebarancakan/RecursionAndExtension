@@ -1,0 +1,15 @@
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\bin\Debug\net6.0\recursiveExtension.exe
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\bin\Debug\net6.0\recursiveExtension.deps.json
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\bin\Debug\net6.0\recursiveExtension.runtimeconfig.json
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\bin\Debug\net6.0\recursiveExtension.dll
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\bin\Debug\net6.0\recursiveExtension.pdb
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.csproj.AssemblyReference.cache
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.AssemblyInfoInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.AssemblyInfo.cs
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.csproj.CoreCompileInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.dll
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\refint\recursiveExtension.dll
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.pdb
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\recursiveExtension.genruntimeconfig.cache
+C:\Users\codingGrounds\Documents\VSCode\recursiveExtension\obj\Debug\net6.0\ref\recursiveExtension.dll
